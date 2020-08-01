@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="GoFinances" src="https://github.com/gianferreira/goFinances-frontend/blob/master/readme-logo.png" width="220px"/>
+  <img alt="GoFinances" src="https://github.com/gianferreira/goFinances-frontend/blob/master/readme-logo.png" height="85px"/>
 </h3>
 
 <h1 align="center">
@@ -29,7 +29,7 @@
 
 ## Sobre:
 
-Aplicação web desenvolvida em ReactJS que realiza o cadastro e manutenção de transações financeiras. A aplicação consome uma <a href="https://github.com/gianferreira/goFinances-backend"><b> API </b></a> construída em Node.js
+Aplicação web desenvolvida em ReactJS que realiza o cadastro e manutenção de transações financeiras. A aplicação consome uma <a href="https://github.com/gianferreira/goFinances-backend"><b> API </b></a> construída em Node.js.
 
 ## Tecnologias utilizadas:
 
@@ -76,8 +76,8 @@ yarn start
 </p>
 
 <blockquote align="center">
-  Este projeto foi desenvolvimento durante o
+  Este projeto foi desenvolvido durante o
     <a href="https://rocketseat.com.br/gostack">
-      Bootcamp da RocketSeat
+      Bootcamp da Rocketseat
     </a>
 </blockquote>
